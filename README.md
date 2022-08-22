@@ -1,6 +1,9 @@
 # Store service
 This is the service for stores features
 
+## Five closest Jumbo
+This is a feature which returns five closest Jumbo stores to the give coordinate as meter.
+
 ## Run tests
 `mvn test` can be used to run all unit tests
 
